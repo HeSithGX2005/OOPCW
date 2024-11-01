@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class OopcwApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads(sss) {
 	}
 
 }
