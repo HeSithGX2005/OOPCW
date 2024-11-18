@@ -1,0 +1,14 @@
+.app-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-right: 20px;
+  }
+  
+  .nav-links a {
+    margin-right: 10px;
+  }
+  
+  .spacer {
+    flex: 1;
+  }
+  
